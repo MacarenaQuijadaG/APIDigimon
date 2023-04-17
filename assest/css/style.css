@@ -1,0 +1,48 @@
+img.logo{
+    width: 150px;
+    height: 100px;
+  }
+
+.card{
+  border-color: blue;
+  text-align: center;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  align-items: center;
+  justify-content: center;
+  width: 1000px;
+  margin: 0 auto
+}
+
+.busqueda{
+  width: 400px;
+  height: 50px;
+  margin: 0px auto;
+
+}
+
+.titulo{
+ text-align: center;
+}
+
+
+@media(max-width: 575px){
+  #uno{
+    background-color: #e8f8f8;
+    display: block;
+    text-align: center;
+    width: 500px;
+    margin: 0 auto
+}
+
+}
+
+@media(min-width: 576px )and (max-width:767px){
+  #uno{
+    background-color: #0fdae9;
+    display: block;
+    text-align: center;
+    width: 500px;
+    margin: 0 auto
+}
+
+}
