@@ -25,7 +25,7 @@ Instrucciones y ejemplos para ejecutar el conjunto de pruebas.
 
 ## Construido Con 🛠️
 
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)) - El lenguaje utilizado
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - El lenguaje utilizado
 
 ## Autores ✒️
 
