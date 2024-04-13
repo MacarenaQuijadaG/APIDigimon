@@ -1,4 +1,4 @@
-# Aplicacion de Digimon
+# Aplicación de Digimon
 
 ## Descripción
 
